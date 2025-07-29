@@ -20,7 +20,7 @@ Then let's see how we can use terraform modules with separate state files and mo
 
 Our project's file architecture will be as below.
 
-``
+```
 ProjectRoot/
 ├── Modules/
 │   ├── VPC/
@@ -45,4 +45,4 @@ ProjectRoot/
             ├── outputs.tf
             ├── providers.tf
             └── data.tf
-``
+```
