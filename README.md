@@ -207,13 +207,17 @@ Open the terminal at the path below first.
 ProjectRoot/Environments/vpc
 
 Executes the below commands.
-``` terraform init
-    terraform apply ```
+``` 
+    terraform init
+    terraform apply 
+```
 
 Again switch to the below path in terminal and execute below commands.
 
-``` terraform init
-    terraform apply ```
+``` 
+    terraform init
+    terraform apply 
+```
 
 Now you will be able to create the VPC and Subnet successfully.
 
